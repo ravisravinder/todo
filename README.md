@@ -12,6 +12,7 @@
 - [ ] Task 8: AWS
 - [ ] Task 9: Testing side
 - [ ] Task 10: Deployment
+- [ ] ACID,
 
 ## Notes:
 - You can mark tasks as completed by replacing `[ ]` with `[x]`.
