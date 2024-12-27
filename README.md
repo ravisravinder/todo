@@ -5,6 +5,7 @@
 - [ ] Task 1: Prepare DSA No Short cut
 - [ ] Task 2: Prepare LLD SOLID (With code practice)
 - [X] Task 3: Prepare HLD System Desing
+- [ ] HotelBooking
 - [ ] Task 4: Distributed Transactions
 - [ ] Task 5: Java Interview QUestion
 - [ ] Task 6: Collections
